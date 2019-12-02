@@ -53,9 +53,11 @@
                     <li><a href="#contact">Contact</a></li>
                     <!--li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li-->
                 </ul>
-            </nav><!-- #nav-menu-container -->
+            </nav>
+            <!-- #nav-menu-container -->
         </div>
-    </header><!-- #header -->
+    </header>
+    <!-- #header -->
 
     <!--==========================
     Intro Section
@@ -80,17 +82,16 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h2>About The Event</h2>
-                        <p>Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut
-                            accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in
-                            est ut optio sequi unde.</p>
+                        <p>CADMUN is the most important event of the American School of Durango. CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.
+                        </p>
                     </div>
                     <div class="col-lg-3">
                         <h3>Where</h3>
-                        <p>Downtown Conference Center, New York</p>
+                        <p>American School of Durango, Durango, Mex</p>
                     </div>
                     <div class="col-lg-3">
                         <h3>When</h3>
-                        <p>Monday to Wednesday<br>10-12 December</p>
+                        <p>Thursday to Saturday<br>27-29 February</p>
                     </div>
                 </div>
             </div>
@@ -102,27 +103,27 @@
         <section id="speakers" class="wow fadeInUp">
             <div class="container">
                 <div class="section-header">
-                    <h2>Event Speakers</h2>
-                    <p>Here are some of our speakers</p>
+                    <h2>Event Speaker</h2>
+                    <!--p>Here are some of our speakers</p-->
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-6 col-md-6">
                         <div class="speaker">
                             <img src="img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
                             <div class="details">
-                                <h3><a href="speaker-details.html">Brenden Legros</a></h3>
-                                <p>Quas alias incidunt</p>
+                                <h3><a href="speaker-details.html">JONATHAN SÁNCHEZ PÉREZ</a></h3>
+                                <p>Featured Mexican talent in the space industry</p>
                                 <div class="social">
-                                    <a href=""><i class="fa fa-twitter"></i></a>
-                                    <a href=""><i class="fa fa-facebook"></i></a>
-                                    <a href=""><i class="fa fa-google-plus"></i></a>
-                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                    <a href="https://twitter.com/Mexican_Space" target="_blank"><i class="fa fa-twitter"></i></a>
+                                    <a href="https://www.facebook.com/MXespacial/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                    <!--a href=""><i class="fa fa-google-plus"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a-->
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <!--div class="col-lg-4 col-md-6">
                         <div class="speaker">
                             <img src="img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
                             <div class="details">
@@ -196,7 +197,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div-->
                 </div>
             </div>
 
@@ -224,8 +225,7 @@
                     </li>
                 </ul>
 
-                <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
-                    necessitatibus voluptatem quis labore perspiciatis quia.</h3>
+                <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius necessitatibus voluptatem quis labore perspiciatis quia.</h3>
 
                 <div class="tab-content row justify-content-center">
 
@@ -473,14 +473,16 @@
 
                 <div class="row no-gutters">
                     <div class="col-lg-6 venue-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3065.48495735946!2d-104.67013688679863!3d23.978237638924302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bc7f2b7b5262f%3A0xe7791c397c1df7b5!2sColegio%20Americano%20de%20Durango!5e0!3m2!1sen!2smx!4v1575301744002!5m2!1sen!2smx" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
                     </div>
 
                     <div class="col-lg-6 venue-info">
                         <div class="row justify-content-center">
                             <div class="col-11 col-lg-8">
-                                <h3>Downtown Conference Center, New York</h3>
-                                <p>Iste nobis eum sapiente sunt enim dolores labore accusantium autem. Cumque beatae ipsam. Est quae sit qui voluptatem corporis velit. Qui maxime accusamus possimus. Consequatur sequi et ea suscipit enim nesciunt quia velit.</p>
+                                <h3>American School of Durango, Durango, Mex</h3>
+                                <p>The American School of Durango (ASD) is a private, non-profit, K-12 college preparatory school located in Durango, Mexico, and established in 1954 with the cooperation of the American Schools Offices of the Department of Education.</p>
                             </div>
                         </div>
                     </div>
@@ -568,29 +570,29 @@
             <div class="container">
                 <div class="section-header">
                     <h2>Hotels</h2>
-                    <p>Her are some nearby hotels</p>
+                    <!--p>Here are some nearby hotels</p-->
                 </div>
 
                 <div class="row">
 
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-6 col-md-6">
                         <div class="hotel">
                             <div class="hotel-img">
                                 <img src="img/hotels/1.jpg" alt="Hotel 1" class="img-fluid">
                             </div>
-                            <h3><a href="#">Hotel 1</a></h3>
+                            <h3><a href="https://hotelplazavizcaya.com/" target="_blank">Hotel Best Western Plus Plaza Vizcaya</a></h3>
                             <div class="stars">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
-                                <i class="fa fa-star"></i>
+                                <!--i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i-->
                             </div>
-                            <p>0.4 Mile from the Venue</p>
+                            <p>4.84 Mile from the Venue</p>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6">
+                    <!--div class="col-lg-4 col-md-6">
                         <div class="hotel">
                             <div class="hotel-img">
                                 <img src="img/hotels/2.jpg" alt="Hotel 2" class="img-fluid">
@@ -621,7 +623,7 @@
                             </div>
                             <p>0.6 Mile from the Venue</p>
                         </div>
-                    </div>
+                    </div-->
 
                 </div>
             </div>
@@ -735,19 +737,22 @@
                         <ul id="faq-list">
 
                             <li>
-                                <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="fa fa-minus-circle"></i></a>
+                                <a data-toggle="collapse" class="collapsed" href="#faq1">What is CADMUN?<i class="fa fa-minus-circle"></i></a>
                                 <div id="faq1" class="collapse" data-parent="#faq-list">
                                     <p>
-                                        Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                                        CADMUN is the most important event of the American School of Durango. CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="fa fa-minus-circle"></i></a>
+                                <a data-toggle="collapse" href="#faq2" class="collapsed">What are the benefits of CADMUN?<i class="fa fa-minus-circle"></i></a>
                                 <div id="faq2" class="collapse" data-parent="#faq-list">
                                     <p>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                        CADMUN gives students an environment in which they can challenge and improve their communication skills. <br>
+                                        It is the appropriate moment to demonstrate your greatness and leadership. <br>
+                                        CADMUN creates the perfect environment for students to trust in themselves and to believe they can get things done regardless of their age and background.
+
                                     </p>
                                 </div>
                             </li>
@@ -756,34 +761,44 @@
                                 <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="fa fa-minus-circle"></i></a>
                                 <div id="faq3" class="collapse" data-parent="#faq-list">
                                     <p>
-                                        Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                        Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna
+                                        molestie at elementum eu facilisis sed odio morbi quis
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="fa fa-minus-circle"></i></a>
+                                <a data-toggle="collapse" href="#faq4" class="collapsed">What skills does the delegate develop through CADMUN?<i class="fa fa-minus-circle"></i></a>
                                 <div id="faq4" class="collapse" data-parent="#faq-list">
                                     <p>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                        Leadership, public speaking, research, team building, writing, debating, confidence and communication.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="fa fa-minus-circle"></i></a>
+                                <a data-toggle="collapse" href="#faq5" class="collapsed">What is a position paper?<i class="fa fa-minus-circle"></i></a>
                                 <div id="faq5" class="collapse" data-parent="#faq-list">
                                     <p>
-                                        Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                                        A position paper is a three paragraph essay in which the delegate explains the history or basic facts about the topic, states their country’s position on the matter, and explains their country’s proposed solutions. The purpose of the position paper is to effectively present a country’s stance on an issue and allow the delegation to propose its solutions to the committee.
                                     </p>
                                 </div>
                             </li>
 
                             <li>
-                                <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="fa fa-minus-circle"></i></a>
+                                <a data-toggle="collapse" href="#faq6" class="collapsed">What do you have to do to enter CADMUN?<i class="fa fa-minus-circle"></i></a>
                                 <div id="faq6" class="collapse" data-parent="#faq-list">
                                     <p>
-                                        Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+                                        Select a country and committee, practice in mock debates, do your research to make the 1st and 2nd draft of your position paper, make corrections and start 3rd (final) draft, and you are ready to debate!
+                                    </p>
+                                </div>
+                            </li>
+
+                            <li>
+                                <a data-toggle="collapse" href="#faq7" class="collapsed">How will you practice?<i class="fa fa-minus-circle"></i></a>
+                                <div id="faq7" class="collapse" data-parent="#faq-list">
+                                    <p>
+                                        One month before CADMUN, each grade will have mock debates directed by the chairs, so both the delegates and chairs can practice. This will provide students confidence, curiosity, critical thinking, communication, control, creativity ,leadership and self- motivation.
                                     </p>
                                 </div>
                             </li>
@@ -799,7 +814,7 @@
         <!--==========================
       Subscribe Section
     ============================-->
-        <section id="subscribe">
+        <!--section id="subscribe">
             <div class="container wow fadeInUp">
                 <div class="section-header">
                     <h2>Newsletter</h2>
@@ -818,12 +833,12 @@
                 </form>
 
             </div>
-        </section>
+        </section-->
 
         <!--==========================
       Buy Ticket Section
     ============================-->
-        <section id="buy-tickets" class="section-with-bg wow fadeInUp">
+        <!--section id="buy-tickets" class="section-with-bg wow fadeInUp">
             <div class="container">
 
                 <div class="section-header">
@@ -873,9 +888,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- Pro Tier -->
-                    <div class="col-lg-4">
+                    </div-->
+        <!-- Pro Tier -->
+        <!--div class="col-lg-4">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title text-muted text-uppercase text-center">Premium Access</h5>
@@ -899,10 +914,10 @@
                     </div>
                 </div>
 
-            </div>
+            </div-->
 
-            <!-- Modal Order Form -->
-            <div id="buy-ticket-modal" class="modal fade">
+        <!-- Modal Order Form -->
+        <!--div id="buy-ticket-modal" class="modal fade">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -932,11 +947,8 @@
                                 </div>
                             </form>
                         </div>
-                    </div><!-- /.modal-content -->
-                </div><!-- /.modal-dialog -->
-            </div><!-- /.modal -->
 
-        </section>
+        </section-->
 
         <!--==========================
       Contact Section
@@ -947,7 +959,7 @@
 
                 <div class="section-header">
                     <h2>Contact Us</h2>
-                    <p>Nihil officia ut sint molestiae tenetur.</p>
+                    <p>Keep in touch...</p>
                 </div>
 
                 <div class="row contact-info">
@@ -956,7 +968,7 @@
                         <div class="contact-address">
                             <i class="ion-ios-location-outline"></i>
                             <h3>Address</h3>
-                            <address>A108 Adam Street, NY 535022, USA</address>
+                            <address>Av. Tec. Milenio #201 El Nayar, Durango, Dgo.</address>
                         </div>
                     </div>
 
@@ -964,7 +976,7 @@
                         <div class="contact-phone">
                             <i class="ion-ios-telephone-outline"></i>
                             <h3>Phone Number</h3>
-                            <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+                            <p><a href="tel:+155895548855">+52 (618) 8133636</a></p>
                         </div>
                     </div>
 
@@ -972,7 +984,7 @@
                         <div class="contact-email">
                             <i class="ion-ios-email-outline"></i>
                             <h3>Email</h3>
-                            <p><a href="mailto:info@example.com">info@example.com</a></p>
+                            <p><a href="mailto:cadmun@cadurango.mx">cadmun@cadurango.mx</a></p>
                         </div>
                     </div>
 
@@ -1005,7 +1017,8 @@
                 </div>
 
             </div>
-        </section><!-- #contact -->
+        </section>
+        <!-- #contact -->
 
     </main>
 
@@ -1019,8 +1032,9 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-info">
-                        <img src="img/logo.png" alt="TheEvenet">
-                        <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate cupiditate debitis accusamus repellat cumque.</p>
+                        <img src="img/logo.png" alt="CADMUN20">
+                        <p>In alias aperiam. Placeat tempore facere. Officiis voluptate ipsam vel eveniet est dolor et totam porro. Perspiciatis ad omnis fugit molestiae recusandae possimus. Aut consectetur id quis. In inventore consequatur ad voluptate
+                            cupiditate debitis accusamus repellat cumque.</p>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
@@ -1048,11 +1062,9 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h4>Contact Us</h4>
                         <p>
-                            A108 Adam Street <br>
-                            New York, NY 535022<br>
-                            United States <br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            Av. Tec. Milenio #201 <br> El Nayar, Durango, Dgo. <br> Mexico <br>
+                            <strong>Phone:</strong> +52 (618) 8133636<br>
+                            <strong>Email:</strong> cadmun@cadurango.mx<br>
                         </p>
 
                         <div class="social-links">
@@ -1071,7 +1083,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved
+                &copy; Copyright <strong>CADMUN20</strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!--
@@ -1083,7 +1095,8 @@
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
         </div>
-    </footer><!-- #footer -->
+    </footer>
+    <!-- #footer -->
 
     <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
