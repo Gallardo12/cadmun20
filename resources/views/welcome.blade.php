@@ -107,7 +107,7 @@
                     <!--p>Here are some of our speakers</p-->
                 </div>
 
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="speaker">
                             <img src="img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
@@ -481,7 +481,7 @@
                     <div class="col-lg-6 venue-info">
                         <div class="row justify-content-center">
                             <div class="col-11 col-lg-8">
-                                <h3>American School of Durango, Durango, Mex</h3>
+                                <h3>American School of Durango</h3>
                                 <p>The American School of Durango (ASD) is a private, non-profit, K-12 college preparatory school located in Durango, Mexico, and established in 1954 with the cooperation of the American Schools Offices of the Department of Education.</p>
                             </div>
                         </div>
@@ -573,8 +573,7 @@
                     <!--p>Here are some nearby hotels</p-->
                 </div>
 
-                <div class="row">
-
+                <div class="row justify-content-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="hotel">
                             <div class="hotel-img">
